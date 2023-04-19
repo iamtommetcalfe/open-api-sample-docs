@@ -5,7 +5,7 @@ info:
   description: A simple API for sending and viewing messages containing a title and description.
 
 servers:
-  - url: https://api.example.com/v1
+  - url: https://iamtommetcalfe.github.io/open-api-sample-docs/
 
 paths:
   /messages:
