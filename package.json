@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "@redocly/cli": "1.0.0-beta.124"
+  },
+  "scripts": {
+    "dev": "yarn serve",
+    "serve": "redocly preview-docs"
+  }
+}
