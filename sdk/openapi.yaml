@@ -1,6 +1,6 @@
 openapi: 3.1.0
 info:
-  title: Message API
+  title: SDK API
   version: 1.0.0
   description: (TEST) A simple API for sending and viewing messages containing a title and description.
 
