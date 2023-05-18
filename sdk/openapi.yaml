@@ -10,7 +10,7 @@ servers:
 paths:
   /messages:
     get:
-      summary: Get all messages test
+      summary: Get all messages test again
       operationId: getMessages
       responses:
         '200':
